@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ironmike4231
-- 👀 I’m interested in: coding
-- 🌱 I’m currently learning: coding (obvi lol)
+- 👀 I’m interested in: programming (WHAT!!!)
+- 🌱 I’m currently learning: programming (WHAT!!!)
 - 💞️ I’m looking to collaborate on: stuff
-- 📫 How to reach me: you don't LMAO XDDD
+- 📫 How to reach me: you don't
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: i am swag
+- ⚡ Fun fact: i am.... kinda swag......
 
 <!---
 ironmike4231/ironmike4231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
